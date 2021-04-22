@@ -1,0 +1,16 @@
+{
+  "name": "cypress-rest-graphql-example",
+  "version": "0.0.1",
+  "description": "A simple project to demonstrate the cypress-rest-graphql plugin for cypress.io",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Alex McFadyen <npm@bengroup.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.1.0",
+    "cypress-rest-graphql": "^0.0.1",
+    "graphql": "^15.5.0",
+    "graphql-request": "^3.4.0"
+  }
+}
